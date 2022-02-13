@@ -20,7 +20,7 @@
    display: block;
    opacity: 0;
    list-style: none;
-   animation: animate 20s linear infinite;
+   animation: animate linear infinite;
    bottom: 0;
 }
 
